@@ -1,0 +1,12 @@
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\net5.0\WeekdayFinder.deps.json
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\net5.0\WeekdayFinder.dll
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\net5.0\ref\WeekdayFinder.dll
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\bin\Debug\net5.0\WeekdayFinder.pdb
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.AssemblyInfo.cs
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.dll
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\ref\WeekdayFinder.dll
+C:\Users\willi\Documents\Epicodus\c#\weekday-finder\WeekdayFinder.Solution\WeekdayFinder\obj\Debug\net5.0\WeekdayFinder.pdb
